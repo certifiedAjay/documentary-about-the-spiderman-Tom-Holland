@@ -1,5 +1,7 @@
 body{background-color: darkred;}
-p1{font-size:30px;}
-ol{font-size: 30px;}
-p2{font-size: 30px;}
-P3{font-size: 30PX;}
+p1{font-size:30px;color: skyblue;}
+ol{font-size: 30px;color: skyblue;}
+p2{font-size: 30px;color: skyblue;}
+h2{color: skyblue;text-decoration-line: underline;}
+h1{color: skyblue;text-decoration-line: underline;}
+p4{color: skyblue; text-decoration-line: underline;}
